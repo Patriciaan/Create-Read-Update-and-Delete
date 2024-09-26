@@ -1,0 +1,17 @@
+body {
+    align-items: center;
+    background-color: rgb(217, 150, 219);
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    margin: 0;
+  }
+  
+  form {
+    background-color: white; /* Set a background color for the form */
+    padding: 10px; /* Add padding for better visual appearance */
+    width: 450px; /* Set the desired width for the form */
+    border-radius: 8px; /
+
+  }
+  
